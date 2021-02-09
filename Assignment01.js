@@ -69,3 +69,4 @@ function render() {
     gl.clear( gl.COLOR_BUFFER_BIT );
     gl.drawArrays( gl.TRIANGLES, 0, points.length );
 }
+//change
